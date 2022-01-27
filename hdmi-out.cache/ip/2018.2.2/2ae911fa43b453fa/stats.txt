@@ -1,0 +1,4 @@
+NumberHits:0
+Timestamp: Tue Jan 04 20:31:29 UTC 2022
+VLNV: xilinx.com:ip:v_axi4s_vid_out:4.0
+SynthRuntime: 39

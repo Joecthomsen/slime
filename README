@@ -1,0 +1,7 @@
+Date: 27/01/2022
+Author: Johannes Claudius Thomsen
+
+Installation:
+
+	In order for the game to run, copy the files from the folder "Installation_files_FSBL" onto the SD card, and ensure that the
+	jumper on the ZYBO FPGA is set to load from the SD-card when booting up. 
